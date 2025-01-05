@@ -1,0 +1,65 @@
+{%extends 'users/userbase.html'%}
+{%load static%}
+{%block contents%}
+<!-- /.parallax full screen background image -->
+<div class="fullscreen landing parallax banner" style="background-image:url('{%static '<!-- images/bg.jpg -->'%}');"
+     data-img-width="2000" data-img-height="1325" data-diff="100">
+
+    <div class="overlay" style="border-radius: 50px; background-color: chocolate;">
+        <div class="container">
+            <div class="row">
+
+
+                <div class="col-md-6">
+
+                    <!-- /.main title -->
+                    <h1 class="wow fadeInLeft">
+                        A Brief on Job Scams
+                    </h1>
+
+                    <!-- /.header paragraph -->
+                    <div class="landing-text wow fadeInLeft" style="color: white; margin-bottom: 92px;">
+                        <ul> 
+                            <li><strong>Reported losses:</strong> Increased more than threefold from 2020 to 2023, with over <strong>$220 million</strong> reported in just the first half of 2024.</li> 
+                            <li><strong>Task scams:</strong> Reports of these scams quadrupled from 5,000 in 2023 to <strong>20,000 in the first half of 2024</strong>.</li> 
+                            <li><strong>Cryptocurrency losses:</strong> Job scams involving cryptocurrency hit <strong>$41 million</strong> in the first half of 2024, nearly double the amount reported in all of 2023.</li> 
+                            <li><strong>Common methods:</strong> Scams often start with unexpected texts or WhatsApp messages offering online work, asking victims to complete simple tasks like liking videos or rating products.</li> 
+                            <li><strong>Victim demographics:</strong> A significant number of victims are young adults who are often lured by the promise of easy money.</li> 
+                        </ul>
+                    </div>
+
+                </div>
+
+                <!-- /.phone image -->
+                <div class="col-md-6">
+                    <img src="{%static '\images\JobSearch.png'%}" alt="phone"
+                         class="header-phone img-responsive wow fadeInRight" style="border-radius: 50px;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- /.feature section -->
+<div id="feature" style="margin: 20px; border-radius: 50px; background-color:bisque;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1 col-sm-12 text-center feature-title">
+
+                <!-- /.feature title -->
+                <h2 style="font-weight:bold ;">OUR SOLUTION</h2>
+                 
+                <p style="text-align: left;"><strong>Issue:</strong> Fraudulent job postings on various job portals across the internet.</p> 
+                <p style="text-align: left;"><strong>Solution:</strong> Use machine learning algorithms to accurately identify authentic job posts from fraudulent ones.</p> 
+                <p style="text-align: left;"><strong>Algorithms Used:</strong> SVM, KNN, Naive Bayes Classifier, Random Forest Classifier, Decision Tree, etc.</p> 
+                <p style="text-align: left;"><strong>Training Data:</strong> Latest EMSCAD Dataset from Kaggle.</p> 
+                <p style="text-align: left;"><strong>Top Performer:</strong> Random Forest Algorithm with 90% accuracy in identifying fraudulent job postings.</p> 
+                <p><strong>Sign Up now, to leverage our solution and protect yourself from falling into the traps of fraudsters seeking your sensitive information.</strong></p>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+{%endblock%}
