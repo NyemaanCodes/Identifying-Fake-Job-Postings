@@ -52,7 +52,7 @@ My Role
 
      ->Contributed to the web application's user interface by creating visually appealing, easy-to-navigate pages. Added animations and responsive design elements, ensuring a fast request-response loop between frontend and backend.
      
-  3. Database Management:
+  2. Database Management:
 
      ->Assisted in database architecture and normalization to reduce redundancy. Ensured efficient data storage and retrieval, facilitating seamless integration between the database and the web application.
 
@@ -92,5 +92,20 @@ ML Model Results page:
 
 Custom Job Verification page:
 ![image](https://github.com/user-attachments/assets/c0e2e54b-5119-4901-b913-ad2a7732ec86)
+
+
+
+Admins:
+
+Home Page:
+![image](https://github.com/user-attachments/assets/dfca1bb4-b2a3-4dd0-842f-5fce1892ed9b)
+
+User Details Page:
+![image](https://github.com/user-attachments/assets/a40b967a-0418-4fb8-baa1-17d33c04ee71)
+
+Classification page:
+![image](https://github.com/user-attachments/assets/41a3f586-d39b-41f2-8d4f-fb7d05018849)
+
+
 
 
