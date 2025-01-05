@@ -13,6 +13,8 @@ Solution:
   
   ->Using the Employment Scam Aegean Dataset (EMSCAD) containing 18,000 samples, we applied both traditional machine learning and deep learning techniques to classify job postings as legitimate or fraudulent. Contributed in developing a web based application which helps it's registered users with a easy to use job post verification service, where the user can copy paste any existing online job post's description on the "Custom Job Verification" web page, which will produce a result stating whether the job post is Legitimate or Fraudulent. Which would help prevent the job seeker from falling into the trap of fradulent jobs.   
 ![Fraudulent Prediction ScreenShot](https://github.com/user-attachments/assets/928455cc-99ab-432c-acdf-19deffe8bc8b)
+![Legitimate Prediction ScreenShot](https://github.com/user-attachments/assets/cfa67757-8a8e-44f6-b279-10e7f4c27f74)
+
 
 
 
