@@ -55,3 +55,42 @@ My Role
   3. Database Management:
 
      ->Assisted in database architecture and normalization to reduce redundancy. Ensured efficient data storage and retrieval, facilitating seamless integration between the database and the web application.
+
+
+ScreenShots of WebPages:
+
+Base:
+
+Home Page:
+![image](https://github.com/user-attachments/assets/3ca2910a-5da6-4c7f-9222-9da84e170b98)
+![image](https://github.com/user-attachments/assets/415fcbcf-e414-4b05-87fa-83e76e43e088)
+
+User Login Page:
+![image](https://github.com/user-attachments/assets/496e0e97-7471-4232-b6fd-b84c9086f594)
+
+Admin Login Page:
+![image](https://github.com/user-attachments/assets/cca2958b-c3f3-435e-8768-6e8d37ab0b51)
+
+Sign Up Page:
+![image](https://github.com/user-attachments/assets/f9a0490f-c2f0-41d0-a700-673487358078)
+
+
+
+Users:
+
+Home Page:
+![image](https://github.com/user-attachments/assets/a63b7319-42c2-418c-be17-f4b59e5105ec)
+
+EMSCAD Dataset page:
+![image](https://github.com/user-attachments/assets/78bc092e-6056-4bb4-902a-0d76c7f0d947)
+
+Preprocessed page:
+![image](https://github.com/user-attachments/assets/8ffd4172-18f6-4b94-a798-d55d88dc68ea)
+
+ML Model Results page:
+![image](https://github.com/user-attachments/assets/41a3f586-d39b-41f2-8d4f-fb7d05018849)
+
+Custom Job Verification page:
+![image](https://github.com/user-attachments/assets/c0e2e54b-5119-4901-b913-ad2a7732ec86)
+
+
