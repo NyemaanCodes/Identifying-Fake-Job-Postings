@@ -48,7 +48,7 @@ Possible Improvements
   3. Expanding the dataset for increased generalizability.
 
 My Role
-  1. Frontend Development:
+  1. Frontend Development (HTML and CSS only):
 
      ->Contributed to the web application's user interface by creating visually appealing, easy-to-navigate pages. Added animations and responsive design elements, ensuring a fast request-response loop between frontend and backend.
      
