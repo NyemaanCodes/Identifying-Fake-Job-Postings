@@ -26,7 +26,7 @@ Approach Taken:
     Traditional Machine Learning: KNN, SVM, Decision Tree, Naive Bayes, Random Forest, and Multilayer Perceptron (MLP).
     Deep Learning: Deep Neural Network (DNN) with three dense layers for robust classification.
   3. Frontend Development:
-    Designed an intuitive and interactive interface using HTML and CSS, featuring animations and a floating navigation bar for seamless user experience.
+    Designed an intuitive and interactive interface using HTML, CSS, JavaScript featuring animations and a floating navigation bar for seamless user experience.
   4. Database Management:
     Implemented and optimized the backend database for faster data retrieval and updates, reducing redundancy and ensuring smooth operations.
 
